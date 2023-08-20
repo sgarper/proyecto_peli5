@@ -1,12 +1,12 @@
 {
-     "name": "",
-    "author": "",
-    "image": "",
+     "name": "chukycine",
+    "author": "chuky (Haz-Tu-Liada a 20-08-2023)",
+    "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
     "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
     "groups": [{
-                         "name": "",
+                         "name": "Lista para todo el mundo (Sin lucrarse)",
             "image": "https://lh3.googleusercontent.com/A0-KdBraWx4L-RgGlLf-EI_sc2jjpsR4vOK_CIgy8ps1BaZS_yAHPNiaXMk6QUOhcA=h500",
             "info": "",
             "stations": [{
@@ -339,16 +339,6 @@
                     "name": "Ahora me ves 2",
                     "image": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves_2_54318.jpg",
                     "url": "https://cloudvideo.tv/pdmk4j3aglrx",
-                    "isHost":"true"
-                  },{
-                    "name": "Los visitantes",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcFzEWHgBFEc_coIhLYppeglkHYOCTkHJtJsWXj0xTwaSXsVSs9bVwbjF-RQmWyvVIvA&usqp=CAU",
-                    "url": "https://upstream.to/5uf0q5va151q",
-                    "isHost":"true"
-                  },{
-                    "name": "Los visitantes 2",
-                    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnlnZfEis8i8k5vJfPw7zueMtWd01MEtdpZZ2J_xXeJMuQery2",
-                    "url": "https://upstream.to/u8dxe7qj8i87",
                     "isHost":"true"
                   },{
                  "name": "Animales fantásticos y dónde encontrarlos (2016)",
@@ -4807,7 +4797,7 @@
                     "isHost":"true"   
                                 }] 
                   },{  
-            "name": "Otras",
+            "name": "Peticiones(Se mantendrán aqui un mes)",
             "image": "https://i.ibb.co/7WXCFKF/Peticiones.jpg",
             "info": "",
                "stations": [{
